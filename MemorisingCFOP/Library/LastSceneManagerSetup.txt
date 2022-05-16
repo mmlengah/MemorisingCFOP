@@ -1,5 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/F2LScene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a63ee00ed8d2d287800aff2ec667fcf25d3a84350c8cc02cd9406e16a16bb02e
+size 94

@@ -1,11 +1,3 @@
-{
-  "Version": 1,
-  "ProjectMap": {
-    "7329beed-70d1-0c10-d0be-9b5778392262": {
-      "ProjectGuid": "7329beed-70d1-0c10-d0be-9b5778392262",
-      "DisplayName": "Assembly-CSharp",
-      "ColorIndex": 0
-    }
-  },
-  "NextColorIndex": 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff13df7b723d0075bfbf2ac584db5eccf45e86af4f74445ea61bf07cf1c721d5
+size 435
